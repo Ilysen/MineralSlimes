@@ -51,7 +51,7 @@ You can find a changelog at the bottom of this file.
 
 # Changelog
 
-### Aug. 17, 2019
+### Aug. 18, 2019
 
 #### 1.0.0.0
 
