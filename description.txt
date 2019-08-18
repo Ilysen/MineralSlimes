@@ -1,0 +1,5 @@
+Mineral Slimes aims to remedy the ore grind, especially in the late-game, and to make certain resources renewable, by adding in slimes which spawn naturally in that ore's general location that drop types of ore. Verdant Slimes, for instance, will drop chlorophyte ore, and so on.
+
+The slimes aren't restricted to ore, either; the Possessed Slime, for instance, has a guaranteed dungeon spirit spawn, and the Saltwater Slime drops ocean fish, as well as coral and the like.
+
+For a full list of slimes, as well as a changelog, check the homepage or the GitHub repository.
